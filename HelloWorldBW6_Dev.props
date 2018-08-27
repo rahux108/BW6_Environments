@@ -1,0 +1,7 @@
+agentHost="cvathark-t470.apac.tibco.com"
+agentPort="8079"
+domain="Dev_Domain"
+appSpace="Dev_AppSpace"
+appNode="Dev_AppNode"
+httpPort="8225"
+osgiPort="8228"
