@@ -1,7 +1,7 @@
-agentHost="cvathark-t470.apac.tibco.com"
-agentPort="8079"
-domain="Prod_Domain"
-appSpace="Prod_AppSpace"
-appNode="Prod_AppNode"
-httpPort="8226"
-osgiPort="8227"
+agentHost=cvathark-t470.apac.tibco.com
+agentPort=8079
+domain=Prod_Domain
+appSpace=Prod_AppSpace
+appNode=Prod_AppNode
+httpPort=8226
+osgiPort=8227
