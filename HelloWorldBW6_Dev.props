@@ -1,5 +1,4 @@
 agentHost=localhost
-#agentHost=rdamle-t480.apac.tibco.com
 agentPort=8079
 domain=Dev_Domain
 appSpace=Dev_AppSpace
