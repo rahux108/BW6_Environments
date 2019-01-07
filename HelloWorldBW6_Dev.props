@@ -1,4 +1,4 @@
-agentHost=ip-172-31-6-62.us-east-2.compute.internal
+agentHost=ip-172-31-7-134.us-east-2.compute.internal
 agentPort=8079
 domain=Dev_Domain
 appSpace=Dev_AppSpace
