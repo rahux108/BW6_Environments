@@ -1,4 +1,4 @@
-agentHost=ec2-18-224-31-7.us-east-2.compute.amazonaws.com
+agentHost=ip-172-31-6-62.us-east-2.compute.internal
 agentPort=8079
 domain=Dev_Domain
 appSpace=Dev_AppSpace
